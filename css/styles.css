@@ -1,0 +1,30 @@
+body {
+  background-color: #548CA8;
+}
+
+header {
+border-style: solid;
+border-color: white;
+size: 2px;
+background-size: auto;
+
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FFB830;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #FFB830;
+  text-shadow: 5px 5px 5px #001E6C;
+}
+
+h3 {
+  color: #FFB830;
+  text-shadow: 5px 5px 5px #001E6C;
+}
